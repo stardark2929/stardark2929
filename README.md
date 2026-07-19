@@ -19,8 +19,3 @@ I work mainly on the backend — service architecture, REST APIs, and data layer
 - [**mongo-node-lab**](https://github.com/stardark2929/mongo-node-lab) — Node.js + MongoDB
 
 More projects in progress.
-
-## Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=stardark2929&show_icons=true&theme=default&hide_border=true&hide_title=true" height="150" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stardark2929&layout=compact&theme=default&hide_border=true&hide_title=true" height="150" alt="Top languages" />
